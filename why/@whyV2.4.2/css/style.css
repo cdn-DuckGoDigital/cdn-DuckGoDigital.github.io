@@ -1,0 +1,50 @@
+body {
+  background-color: #000000;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: #ffffff;
+}
+
+/* Button in extra casses without bootstrap */
+button {
+  background-color: #ff0000; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.buttonexiinfo {
+  font-size: 10px;
+}
+
+.small-text {
+  font-size: 22px;
+  font-weight: 100;
+}
+
+.large-text {
+  font-size: 40px;
+  font-weight: 100;
+}
+
+.custe {
+  font-size: 23px;
+  font-weight: 100;
+}
+
+.auste {
+  font-size: 50px;
+  font-weight: 100;
+}
+
+.mango {
+  font-size: 40px;
+  font-weight: 100;
+}
